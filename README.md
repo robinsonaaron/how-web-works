@@ -1,3 +1,5 @@
+# Example of a change in Git
+
 # How Web Works
 
 What happens behind the scenes when we type google.com in a browser?
